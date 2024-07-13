@@ -26,5 +26,6 @@
   "start_url": ".",
   "display": "standalone",
   "orientation": "portrait",
-  "theme_color": "#B1D6C5"
+  "theme_color": "#B1D6C5",
+  "deploy": "gh-pages -d build"
 }
